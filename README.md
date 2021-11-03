@@ -1,6 +1,6 @@
-![Calc 2000](https://i.imgur.com/1E2ZHsD.png)
+![Calci Extension](https://i.imgur.com/1E2ZHsD.png)
 
-# CALC 2000 - Chrome Extension
+# MINI CALCI - Chrome Extension
 Calculator extension for chrome browser. 
 
 ## ⭐ Features
