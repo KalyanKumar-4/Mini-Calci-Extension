@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "Calc 2000",
+  "name": "Mini Calci as extension",
   "version": "1.0.1",
   "description": "Simple, fast and powerful calculator",
-  "author": "Pawan Kolhe",
+  "author": "Kalyan Kumar",
   "offline_enabled": true,
   "icons": {
     "16": "icon_16.png",
